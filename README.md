@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:18181b&height=175&section=header&text=Thony.&fontSize=56&fontColor=f59e0b&fontAlignY=40&desc=Luis%20Anthony%20%C2%B7%20Software%20Developer&descSize=16&descAlignY=63&descColor=a1a1aa" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f4f4f5,100:e4e4e7&height=175&section=header&text=Thony.&fontSize=56&fontColor=09090b&fontAlignY=40&desc=Luis%20Anthony%20%C2%B7%20Software%20Developer&descSize=16&descAlignY=63&descColor=52525b" />
-  <img width="100%" alt="Thony. — Luis Anthony, Software Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:18181b&height=175&section=header&text=Thony.&fontSize=56&fontColor=f59e0b&fontAlignY=40&desc=Luis%20Anthony%20%C2%B7%20Software%20Developer&descSize=16&descAlignY=63&descColor=a1a1aa" />
+  <img width="100%" alt="Thony. Luis Anthony, Software Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:18181b&height=175&section=header&text=Thony.&fontSize=56&fontColor=f59e0b&fontAlignY=40&desc=Luis%20Anthony%20%C2%B7%20Software%20Developer&descSize=16&descAlignY=63&descColor=a1a1aa" />
 </picture>
 
 <a href="https://luisanthony.vercel.app">
@@ -39,12 +39,12 @@
 
 ### Sobre mí
 
-Soy **Luis Anthony** (*Thony*), desarrollador de software **Full Stack y Móvil** desde **Cusco, Perú**. Construyo productos completos de punta a punta —la app móvil, la web y el backend en la nube— cuidando el rendimiento, la experiencia *offline-first* y la seguridad aplicada desde la base de datos.
+Soy **Luis Anthony** (*Thony*), desarrollador de software **Full Stack y Móvil** desde **Cusco, Perú**. Construyo productos completos de punta a punta (app móvil, web y backend en la nube), cuidando el rendimiento, la experiencia *offline-first* y la seguridad aplicada desde la base de datos.
 
 - **Web & SaaS:** aplicaciones rápidas, multilingües y orientadas a SEO con `Next.js`, `React`, `TypeScript` y `Tailwind CSS`.
 - **Móvil:** apps multiplataforma con `Flutter` y código nativo en `Kotlin`, listas para trabajar sin señal y publicadas en Google Play.
 - **Backend, Cloud e IA:** APIs serverless con `Python`, `FastAPI`, `Node.js`, `Firebase` y `Google Cloud`, integrando `Gemini` (texto, voz, visión y documentos) donde aporta valor real.
-- **Formación:** Ingeniería Informática y de Sistemas — **UNSAAC** · Español, Quechua e Inglés.
+- **Formación:** Ingeniería Informática y de Sistemas, **UNSAAC** · Español, Quechua e Inglés.
 
 ---
 
